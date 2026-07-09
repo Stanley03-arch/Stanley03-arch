@@ -40,3 +40,46 @@ Now looking for new opportunities, working on agents; stewarding open-source as 
 ### Other Tools
 
 - 🧰 **[flockflow-hub](https://github.com/Stanley03-arch/flockflow-hub)** - TypeScript project
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=Stanley03-arch&hide_border=true)
+
+## What I'm Doing
+
+- **Living in the future** - Learning and building tools to make software engineering faster for everyone
+- **Rapid prototyping** - Building full applications and scalable systems in days
+- **Exploring AI workflows** - Constantly testing new AI tools to improve my development process
+- **Learning & Growing** - Expanding my knowledge in system architecture and cloud deployments
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Stanley_Samwel-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanley-samwel-472149254/)
+[![Email](https://img.shields.io/badge/-owinostanley03@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:owinostanley03@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Stanley03-arch)
+
+---
+
+### Recognition
+
+- Proven track record of building and deploying functional Python and React applications
+- Rapidly adopted AI-native development workflows
+- (Add your own achievements or awards here)
+
+### Media
+
+- (Link to any articles you've written, podcasts you've been on, or talks you've given)
+- Example: **[My Portfolio Project Walkthrough](https://youtube.com)** - Detailed walkthrough of my latest build
+
+### Philosophy
+
+> "Ship beats perfect" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development.
+
+<details>
+<summary>Random Facts</summary>
+
+- Passionate about building clean, maintainable code
+- Powered by good coffee and great documentation
+- Love collaborating on open-source projects
+
+</details>
