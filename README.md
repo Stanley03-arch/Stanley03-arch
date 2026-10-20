@@ -10,11 +10,25 @@ I build practical AI tools, multilingual voice agents, and experimental language
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![tRPC](https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+![Drizzle](https://img.shields.io/badge/-Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![LiveKit](https://img.shields.io/badge/-LiveKit-1C1C1C?style=flat-square&logo=livekit&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ## Start Here
 
 - 🦞 **[llmlang](https://github.com/Stanley03-arch/llmlang)** — A programming language whose runtime is an LLM + tools
 - 🎚️ **[african-voice-agents](https://github.com/Stanley03-arch/african-voice-agents)** — Conversational agents for Swahili & Kikuyu
+- 🧠 **[alexnet-pytorch](https://github.com/Stanley03-arch/alexnet-pytorch)** — Clean PyTorch implementation of classic AlexNet
 - 🐾 **[OPENKAYA-AI](https://github.com/Stanley03-arch/OPENKAYA-AI)** — Practical AI tools for African use cases
 - 🧭 **[habari-jarvis](https://github.com/Stanley03-arch/habari-jarvis)** — Personal Jarvis-style assistant
 - 👉 **[IVULA-FRAUD-DETECTION-SYTEM](https://github.com/Stanley03-arch/IVULA-FRAUD-DETECTION-SYTEM)** — Fraud detection system
@@ -27,6 +41,7 @@ I build practical AI tools, multilingual voice agents, and experimental language
 
 - 🦞 **[llmlang](https://github.com/Stanley03-arch/llmlang)** — Real language (syntax, AST, interpreter) whose runtime is an LLM + tools. Confidence-based control flow and parallel model calls.
 - 🐾 **[african-voice-agents](https://github.com/Stanley03-arch/african-voice-agents)** — Conversational agent platform supporting Swahili and Kikuyu. Persona editing, voice interaction, multilingual support.
+- 🧠 **[alexnet-pytorch](https://github.com/Stanley03-arch/alexnet-pytorch)** — Clean & modern PyTorch implementation of the classic AlexNet architecture.
 - 🧹 **[OPENKAYA-AI](https://github.com/Stanley03-arch/OPENKAYA-AI)** — Practical AI tools and experiments focused on African use cases.
 - 💬 **[habari-jarvis](https://github.com/Stanley03-arch/habari-jarvis)** — Jarvis-style personal assistant.
 - 🧩 **[OpenManus1](https://github.com/Stanley03-arch/OpenManus1)** / **[OpenManus](https://github.com/Stanley03-arch/OpenManus)** — Experiments with open agent frameworks.
